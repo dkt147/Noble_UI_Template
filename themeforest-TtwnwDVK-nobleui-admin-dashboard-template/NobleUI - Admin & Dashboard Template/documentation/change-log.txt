@@ -1,0 +1,33 @@
+
+*** CHANGE LOG ***
+
+v1.0 (11 September 2019)
+- Initial Release
+
+v1.1 (28 September 2019)
+- RTL Support
+- Design improvements
+
+v1.1.1 (06 October 2019)
+- RTL Bug fix
+
+v1.1.2 (15 October 2019)
+- Added minified version of main CSS files
+- Minified all other CSS files
+
+v1.2 (3 November 2019)
+- Added Horizontal-menu layout
+- Bug fixes
+
+v1.3 (10 March 2020)
+- Updated Bootstrap version to 4.4.1
+- Updated jQuery version to 3.4.1
+- Updated all npm outdated plugins
+- Design improvements
+- Bug fixes
+
+v1.4 (10 June 2020)
+- Updated Bootstrap version to 4.5.0
+- Updated jQuery version to 3.5.1
+- Updated all npm outdated plugins
+- Minor bug fixes
